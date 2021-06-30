@@ -5,7 +5,6 @@ import { styles } from "./styles";
 
 export function Home() {
   const [category, setCategory] = useState("");
-
   const appointments = [
     {
       id: "1",

@@ -28,4 +28,7 @@ export const styles = StyleSheet.create({
     textAlign: "center",
     marginBottom: 64,
   },
+  viewButton: {
+    marginBottom: 20,
+  },
 });
